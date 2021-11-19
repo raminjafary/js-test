@@ -1,0 +1,14 @@
+{
+  "name": "js-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:raminjafary/js-test.git",
+  "author": "raminjafary <raminjafary1993@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
