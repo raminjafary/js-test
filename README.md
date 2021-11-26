@@ -1,5 +1,3 @@
-You have three to four hours since forking this repository to accomplish these tasks. Once you are finished, please submit a PR.
-
 ### Problems
 
 1. Delay the execution of multiple variadic function invokations by variable number of milliseconds and only let the last function call to pass through. The test (`tests/1.test.js`) should pass. Example:
@@ -17,4 +15,4 @@ fn(...args)
 fn(...args) // This is the one being executed!
 ```
 
-**Bonus:**  How would you implement it to invoke functions based on available browser frame rate (fps)? 
+**Bonus:**  How would you implement it to invoke a function based on available browser frame rate (fps)? 
